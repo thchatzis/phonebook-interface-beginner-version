@@ -22,7 +22,20 @@ For development, you will only need Node.js installed on your environement.
 
 In the project directory, you can run:
 
-### `npm start`
+## Setting Up
+
+```
+npm install
+```
+
+
+## Running the project
+
+In the project directory, you can run:
+
+```
+npm start
+```
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
